@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvncrypt",
+        "uuid": 320252,
+        "checksum": "x4dim7"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
